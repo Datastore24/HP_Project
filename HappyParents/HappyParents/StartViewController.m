@@ -6,13 +6,13 @@
 //  Copyright © 2015 datastore24. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "StartViewController.h"
 
-@interface ViewController ()
+@interface StartViewController ()
 
 @end
 
-@implementation ViewController
+@implementation StartViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
